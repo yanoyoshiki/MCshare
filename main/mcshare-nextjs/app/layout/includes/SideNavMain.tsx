@@ -62,7 +62,9 @@ export default function SideNavMain() {
                     <div className="lg:block hidden border-b lg:ml-2 mt-2" />
 
                     <div className="lg:block hidden text-[11px] text-gray-500">
-                        <p className="pt-4 px-2"> if you any question, you can contact    yano.yoshiki.yx4@is.nasit.jp</p>
+                        <p className="pt-4 px-2"> if you have any question, you can contact below things.</p>
+                        <p className="pt-4 px-2"> (e-mail) --@---.com</p>
+                        <p className="pt-4 px-2"> (TEL) ####-####-####</p>
                     </div>
 
                 </div>
